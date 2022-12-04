@@ -13,7 +13,7 @@
 
 ### Screenshot
 
-![](img/omnifood-logo.png)
+![](img/img1.png)
 
 ### Links
 
